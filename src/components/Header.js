@@ -17,7 +17,7 @@ const Navbar = class extends React.Component {
 
     render() {
     return (
-      <section className='' style={{height: '15rem', margin: "12.4px;"}}>
+      <section className='' style={{height: '15rem', margin: "12.4px;", marginBottom: "0px"}}>
         <div className="columns h-100">
           <div className="column is-one-quarter is-full-mobile is-full-tablet p-0 cli-color-bg h-100">
             <Link to='/'>
