@@ -9,7 +9,7 @@ import BlogRoll from "../components/BlogRoll";
 import Maps from "../components/Maps";
 import AgendeDoctor from "../img/agende-doctor.svg";
 import Face from "../img/face.svg";
-import Insta from "../img/Insta.svg";
+import Insta from "../img/insta.svg";
 
 export const IndexPageTemplate = ({
   title,
