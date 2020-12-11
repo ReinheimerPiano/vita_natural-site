@@ -11,7 +11,7 @@ class BlogRoll extends React.Component {
     return (
       <div>
         <section className="is-flex is-vcentered is-hcentered has-background-white mx-6">
-          <h1 className="title is-size-1 has-text-weight-bold my-6 has-background-white px-6" style={{color: "#808080", zIndex: "2"}}>Últimas notícias</h1>
+          <h1 className="title has-text-weight-bold my-6 has-background-white px-4" style={{color: "#808080", zIndex: "2"}}>Últimas Notícias</h1>
           <hr style={{width: "95vw",height: "2px",position: "absolute",background: "#808080",borderRadius: "50px",zIndex: "1"}}/>
         </section>
         <section className="is-flex is-vcentered is-hcentered has-background-white p-6">

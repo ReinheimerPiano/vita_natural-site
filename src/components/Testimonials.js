@@ -21,7 +21,7 @@ const Testimonials = class extends React.Component {
       <div>
         <section className="is-flex is-vcentered is-hcentered has-background-light">
           <h1
-            className="title is-size-1 has-text-weight-bold my-6 has-background-light px-6"
+            className="title has-text-weight-bold my-6 has-background-light px-6"
             style={{ color: "#808080", zIndex: "2" }}
           >
             Depoimentos de pacientes
@@ -37,23 +37,23 @@ const Testimonials = class extends React.Component {
             }}
           />
         </section>
-        <section style={{ height: "80vh" }}>
+        <section style={{ height: "70vh" }}>
           <Slider {...settings}>
             <div
-              style={{ height: "80vh" }}
+              style={{ height: "70vh" }}
               className="hero is-light  is-medium has-background is-flex is-vcentered is-hcentered"
             >
               <img
                 className="background-contain is-transparent"
                 src={aspas}
-                style={{ width: "94vw", marginTop: "-25rem" }}
+                style={{ width: "94vw", marginTop: "-12rem" }}
               />
               <div className="hero-body">
                 <div
                   className="container is-flex is-vcentered id-hcentered"
                   style={{ flexDirection: "column" }}
                 >
-                  <h2 className="subtitle subtitle has-text-centered">
+                  <h2 className="subtitle subtitle has-text-centered is-size-5-tablet is-size-7-mobile">
                     Des que iniciei o tratamento na Clínica Vita Natural Lorem
                     ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
                     nonummy nibh euismod tincidunt ut laoreet dolore magna
@@ -70,13 +70,13 @@ const Testimonials = class extends React.Component {
                     className="mt-3"
                     src={pac1}
                     style={{
-                      width: "20rem",
-                      height: "20rem",
+                      width: "15vh",
+                      height: "15vh",
                       border: "3px solid #808080",
                       borderRadius: "50%",
                     }}
                   />
-                  <h1 className="title has-text-link has-text-weight-bold mt-3">
+                  <h1 className="title has-text-link has-text-weight-bold mt-3 is-size-3-tablet is-size-4-mobile">
                     Maria das Dores
                   </h1>
                 </div>
@@ -89,14 +89,14 @@ const Testimonials = class extends React.Component {
               <img
                 className="background-contain is-transparent"
                 src={aspas}
-                style={{ width: "94vw", marginTop: "-25rem" }}
+                style={{ width: "94vw", marginTop: "-12rem" }}
               />
               <div className="hero-body">
                 <div
                   className="container is-flex is-vcentered id-hcentered"
                   style={{ flexDirection: "column" }}
                 >
-                  <h2 className="subtitle has-text-centered">
+                  <h2 className="subtitle has-text-centered is-size-5-tablet is-size-7-mobile">
                     Des que iniciei o tratamento na Clínica Vita Natural Lorem
                     ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
                     nonummy nibh euismod tincidunt ut laoreet dolore magna
@@ -110,13 +110,13 @@ const Testimonials = class extends React.Component {
                     className="mt-3"
                     src={pac2}
                     style={{
-                      width: "20rem",
-                      height: "20rem",
+                      width: "15vh",
+                      height: "15vh",
                       border: "3px solid #808080",
                       borderRadius: "50%",
                     }}
                   />
-                  <h1 className="title has-text-link has-text-weight-bold mt-3">
+                  <h1 className="title has-text-link has-text-weight-bold mt-3 is-size-3-tablet is-size-4-mobile">
                     João da Silva
                   </h1>
                 </div>

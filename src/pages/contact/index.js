@@ -1,6 +1,7 @@
 import React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
+import Maps from "../../components/Maps";
 
 function encode(data) {
   return Object.keys(data)
@@ -109,6 +110,7 @@ export default class Index extends React.Component {
             </div>
           </div>
         </section>
+      <Maps />
       </Layout>
     );
   }

@@ -1,9 +1,5 @@
 ---
 templateKey: index-page
 title: Apresentação
-subheading: "Nós da Clínica Vita Natural Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl
-ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum
-dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis
-dolore te feugait nulla facilisi."
+subheading: "VITA NATURAL SAÚDE E ESTÉTICA! Conta com uma equipe de profissionais qualificados, especialistas em Acupuntura e Estética, para melhor atender você e sua família! Nosso objetivo é auxiliar na promoção, manutenção e restabelecimento da saúde, visando o bem-estar integral do ser humano, por meio das TERAPIAS INTEGRATIVAS. Oferecemos tecnologia japonesa moderna como a terapia PHOTON ELETROMAGNÉTICA, ACUPUNTURA SEM AGULHAS e a OZONIOTERAPIA usada em vários países europeus e nos Estados Unidos. Trata-se do desenvolvimento de um trabalho qualificado e de natureza humanística, que considera as pessoas como portadoras das dimensões física, mental e emocional."
 ---

@@ -5,14 +5,35 @@ title: Quem Somos
 ---
 <!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam facilisis non mauris vel iaculis. Morbi vitae ullamcorper nisi, et faucibus dolor. Integer facilisis sem et sem gravida pharetra sit amet nec nulla. Donec vel est leo. Fusce ut malesuada dui, id viverra felis. Duis eget urna vel nisi interdum tincidunt. Sed at urna semper, convallis mi vitae, commodo augue. Sed suscipit rutrum venenatis. Nulla pretium, metus vel consectetur accumsan, est nunc ornare lorem, vitae laoreet dolor nibh aliquam tellus. Maecenas maximus, enim in facilisis cursus, tellus diam tincidunt diam, sed volutpat urna odio ut metus. Fusce at congue sem.
+<p style='text-align: justify;'>VITA NATURAL SAÚDE E ESTÉTICA! Conta com uma equipe de profissionais qualificados, especialistas em Acupuntura e Estética, para melhor atender você e sua família! Nosso objetivo é auxiliar na promoção, manutenção e restabelecimento da saúde, visando o bem-estar integral do ser humano, por meio das TERAPIAS INTEGRATIVAS. Oferecemos tecnologia japonesa moderna como a terapia PHOTON ELETROMAGNÉTICA, ACUPUNTURA SEM AGULHAS e a OZONIOTERAPIA usada em vários países europeus e nos Estados Unidos. Trata-se do desenvolvimento de um trabalho qualificado e de natureza humanística, que considera as pessoas como portadoras das dimensões física, mental e emocional.</p>
 
-Vivamus porttitor suscipit dui, efficitur feugiat ipsum viverra at. Proin et ornare sapien. Integer efficitur sodales ante vitae tristique. Phasellus vestibulum ornare turpis nec suscipit. In hac habitasse platea dictumst. Fusce gravida eros sit amet purus rutrum mollis sit amet eu magna. Cras eros eros, suscipit in turpis ut, fermentum tincidunt eros. Nam vulputate odio nec dui laoreet porta at a nibh. Praesent consectetur nulla feugiat tortor luctus congue. Nulla sit amet erat scelerisque, rutrum velit id, pulvinar risus.
+<h4 style='text-align: center'>
+    Dr. David Maurício Rodrigues<br/>
+    Biomédico Especialista em Acupuntura - Ozonioterapia<br/>
+    CRBM 3- 5978 | CRBM 2- 10645
+</h4>
 
-Ut at felis fermentum purus pretium consequat. Curabitur augue ante, ultricies vel erat sit amet, pulvinar gravida risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque mi diam, sollicitudin nec tellus ac, tristique feugiat sapien. Aenean lacinia sem vel turpis suscipit, nec cursus felis tristique. Aliquam erat volutpat. Phasellus id dui a elit molestie vulputate ut quis mi. Cras sollicitudin arcu eget lacus commodo, et aliquam lacus aliquet. Nulla pellentesque mi sem, at elementum dolor condimentum ut. Proin at neque commodo nibh viverra elementum sit amet id erat. Etiam sit amet vulputate dui, vitae dapibus purus. Sed fringilla vestibulum pellentesque.
+<br/>
 
-Quisque viverra dignissim ipsum, eget viverra leo molestie nec. Morbi congue ullamcorper justo, vitae semper orci semper eu. Suspendisse lacinia congue risus. Aenean aliquam turpis id volutpat pulvinar. In faucibus, risus vitae rhoncus facilisis, purus elit consequat augue, nec sodales eros ligula vel lectus. Donec nec vestibulum leo, ut imperdiet dolor. In facilisis justo magna, sit amet ultricies nunc pulvinar et. Morbi dolor odio, efficitur et ipsum luctus, facilisis laoreet felis.
-
-Donec suscipit, ante ut vehicula rutrum, lacus nulla suscipit mi, eu convallis mi est vel lacus. Nulla facilisi. In fermentum porttitor orci. Maecenas at dapibus eros. Proin pretium interdum lectus, a consectetur erat condimentum quis. Sed sed orci sagittis, accumsan justo in, venenatis nunc. In vulputate arcu ac nisl maximus, non posuere neque scelerisque. Aenean pretium neque eget nisl hendrerit cursus. Phasellus scelerisque elit rhoncus molestie sollicitudin. Morbi non viverra felis, vel rutrum dui. Quisque a vestibulum felis. Vestibulum tincidunt ultrices diam, vel porta nulla pulvinar eget. Cras aliquet suscipit augue, a commodo risus accumsan quis. Donec massa lacus, auctor quis elementum quis, tempor ut orci. Nullam mollis vel turpis in molestie. Fusce scelerisque purus libero, sed congue lectus blandit vel.
+<ul>
+    <li>Graduado em Biomedicina - Universidade Anhanguera de Brasília – DF.</li>
+    <li>Pós graduação em ACUPUNTURA E PRÁTICAS DE SAÚDE E LONGEVIDADE</li>
+    <li>Universidade Cruzeiro do Sul - DF</li>
+    <li>Graduando em Nutrição - Estácio de Sá - DF</li>
+    <li>Curso de Extensão Universitária em Ozonioterapia. FAPUGA –SP</li>
+    <li>Curso de Ozonioterapia – IBCOZ -Instituto Brasileiro de Ciências Aplicadas ao Ozônio. SP.</li>
+    <li>Curso de Ozonioterapia na estética – INAESP – SP</li>
+    <li>Curso de Ozonioterapia – Academia Brasileira de Terapeutas Integrativos - DF</li>
+    <li>Palestrante sobre qualidade de vida e bem estar desde 2000</li>
+    <li>Participa de vários congressos de saúde integrativa e estética</li>
+    <li>Ministra diversos cursos na área das terapias integrativas</li>
+    <li>Empresário na área da saúde</li>
+    <li>Diretor da clínica vita natural no DF – www.clinicavitanatural.com.br</li>
+    <li>MEMBRO;</li>
+    <li>ABIOMAC – Associação Biomédica de Acupuntura</li>
+    <li>ABBM – Associação Brasileira de Biomedicina</li>
+    <li>WALT – Word Association For de Laser Therapy</li>
+    <li>ABOZ – Associação Brasileira de Ozonioterapia</li>
+</ul>
 
 <!--EndFragment-->

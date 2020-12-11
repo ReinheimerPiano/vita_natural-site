@@ -50,12 +50,9 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/live/index.md"
-        label: "Live Page"
-        name: "live"
+      - file: "src/pages/tratamentos/index.md"
+        label: "Tratamentos Page"
+        name: "tratamentos"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "live-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "tratamentos-page"}
           - {label: Title, name: title, widget: string}
-          - {label: urlLive, name: urlLive, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
