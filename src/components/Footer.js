@@ -58,7 +58,7 @@ const Footer = class extends React.Component {
                     </li>{" "}
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Ultímas Noticias{" "}
+                        Últimas Notícias{" "}
                       </Link>{" "}
                     </li>{" "}
                     <li>
@@ -94,7 +94,7 @@ const Footer = class extends React.Component {
                     </li>{" "}
                     <li>
                       <Link className="navbar-item" to="/tratamentos#ozonioterapia">
-                        Ozônioterapia{" "}
+                        Ozonioterapia{" "}
                       </Link>{" "}
                     </li>{" "}
                     <li>
@@ -127,10 +127,10 @@ const Footer = class extends React.Component {
               <img
                 src={fone}
                 className="h-70 pr-2"
-                style={{ height: "3.5rem" }}
+                style={{ height: "3rem" }}
                 alt="foneIcon"
               />
-              <h1 className="title has-text-white" style={{ fontSize: "4rem" }}>
+              <h1 className="title has-text-white" style={{ fontSize: "3rem" }}>
                 61 98461-4005
               </h1>
             </section>

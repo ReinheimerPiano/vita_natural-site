@@ -105,10 +105,9 @@ const HeroSlider = class extends React.Component {
                   }}
                 >
                   <div class="content p-3 has-text-weight-bold">
-                    <h4 className="has-text-white">OZÔNIOTERAPIA</h4>
+                    <h4 className="has-text-white">OZONIOTERAPIA</h4>
                     <p style={{ fontSize: "1rem" }}>
-                      Descubra como sua saúde pode melhorar através dessa técnica
-                      milenar reconhecida em todo mundo!
+                      Descubra como essa técnica utilizada em toda Europa e nos EUA pode te ajudar.
                   </p>
                     <Link to="/tratamentos#ozonioterapia">
                       <button
@@ -147,9 +146,9 @@ const HeroSlider = class extends React.Component {
                   <div class="content p-3 has-text-weight-bold">
                     <h4 className="has-text-white">TERAPIA PHOTON MAGNÉTICA</h4>
                     <p style={{ fontSize: "1rem" }}>
-                      Descubra como sua saúde pode melhorar através dessa técnica
-                      milenar reconhecida em todo mundo!
-                  </p>
+                      Tecnologia usada no Japão e nos EUA.
+                      Veja os benefícios!
+                    </p>
                     <Link to="/tratamentos#photon">
                       <button
                         class="button is-small is-primary"
@@ -187,8 +186,8 @@ const HeroSlider = class extends React.Component {
                   <div class="content p-3 has-text-weight-bold">
                     <h4 className="has-text-white">ESTÉTICA INTEGRATIVA</h4>
                     <p style={{ fontSize: "1rem" }}>
-                      Descubra como sua saúde pode melhorar através dessa técnica
-                      milenar reconhecida em todo mundo!
+                      A forma de cuidar da  beleza eliminando as toxinas do organismo. 
+                      Veja como!
                   </p>
                     <Link to="/tratamentos#integrativa">
                       <button

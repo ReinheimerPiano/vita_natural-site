@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                     </figure>
                   </div>
                   <div className="column is-half">
-                    <h1 className="title cli-color">OZÔNIOTERAPIA</h1>
+                    <h1 className="title cli-color">OZONIOTERAPIA</h1>
                     <p>Técnica terapêutica que utiliza a aplicação de uma mistura dos gases oxigênio e ozônio; ou seja, o ozônio medicinal, que é obtido a partir do oxigênio puro medicinal. </p>
                     <p>A OZONIOTERAPIA pode ser utilizada no tratamento de diversas patologias, de maneira isolada ou complementar.</p>
                     <p>A técnica tem sido utilizada há séculos em países desenvolvidos, com benefícios comprovados por inúmeros estudos, em virtude das excelentes propriedades medicinais oferecidas pelo OZÔNIO MEDICINAL, tais como:</p>
