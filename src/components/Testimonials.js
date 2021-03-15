@@ -37,7 +37,7 @@ const Testimonials = class extends React.Component {
             }}
           />
         </section>
-        <section style={{ height: "70vh" }}>
+        <section style={{ height: "auto" }}>
           <Slider {...settings}>
             <div
               style={{ height: "70vh" }}

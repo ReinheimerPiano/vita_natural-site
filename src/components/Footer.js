@@ -10,7 +10,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer
-        className="footer cli-color-bg has-text-white-ter"
+        className="footer cli-color-bg has-text-white-ter p-0 px-6"
         style={{ height: "auto" }}
       >
         <Link
@@ -31,17 +31,17 @@ const Footer = class extends React.Component {
         >
           <img src={whats} alt="whats" style={{ width: "6rem" }} />{" "}
         </Link>
-        <div class="columns">
-          <div class="column">
-            <div className="content has-text-centered">
-              <img src={logo} alt="vitaNatural" style={{ width: "30vw" }} />{" "}
+        <div class="columns py-6">
+          <div class="column is-hidden-touch">
+            <div className="content">
+              <img src={logo} alt="vitaNatural" style={{ width: "70%" }} />{" "}
             </div>{" "}
             <div
-              style={{ maxWidth: "100vw", paddingLeft: "8rem" }}
-              className="columns is-hidden-mobile"
+              style={{ maxWidth: "100vw" }}
+              className="columns is-8"
             >
-              <div className="column is-6">
-                <section className="menu">
+              <div className="column">
+                <div className="menu">
                   <ul className="menu-list subtitle is-5 has-text-white">
                     <li>
                       <Link
@@ -77,23 +77,32 @@ const Footer = class extends React.Component {
                       </a>{" "}
                     </li>{" "}
                   </ul>{" "}
-                </section>{" "}
+                </div>{" "}
               </div>{" "}
               <div className="column is-6">
-                <section>
+                <div>
                   <ul className="menu-list subtitle is-5 has-text-white">
                     <li>
-                      <Link className="navbar-item subtitle is-4 has-text-weight-bold " to="/tratamentos">
+                      <Link
+                        className="navbar-item subtitle is-4 has-text-weight-bold "
+                        to="/tratamentos"
+                      >
                         TRATAMENTOS{" "}
                       </Link>{" "}
                     </li>{" "}
                     <li>
-                      <Link className="navbar-item" to="/tratamentos#acupuntura">
+                      <Link
+                        className="navbar-item"
+                        to="/tratamentos#acupuntura"
+                      >
                         Acupuntura{" "}
                       </Link>{" "}
                     </li>{" "}
                     <li>
-                      <Link className="navbar-item" to="/tratamentos#ozonioterapia">
+                      <Link
+                        className="navbar-item"
+                        to="/tratamentos#ozonioterapia"
+                      >
                         Ozonioterapia{" "}
                       </Link>{" "}
                     </li>{" "}
@@ -103,21 +112,23 @@ const Footer = class extends React.Component {
                       </Link>{" "}
                     </li>{" "}
                     <li>
-                      <Link className="navbar-item" to="/tratamentos#integrativa">
+                      <Link
+                        className="navbar-item"
+                        to="/tratamentos#integrativa"
+                      >
                         Estética Integrativa{" "}
                       </Link>{" "}
                     </li>{" "}
                   </ul>{" "}
-                </section>{" "}
+                </div>{" "}
               </div>{" "}
             </div>{" "}
           </div>
           <div
-            className="column h-100 is-flex is-three-quarters-touch is-hidden-mobile"
+            className="column h-100 is-flex"
             style={{
               flexDirection: "column",
               alignItems: "start",
-              paddingLeft: "10rem",
             }}
           >
             <section
@@ -130,7 +141,7 @@ const Footer = class extends React.Component {
                 style={{ height: "3rem" }}
                 alt="foneIcon"
               />
-              <h1 className="title has-text-white" style={{ fontSize: "3rem" }}>
+              <h1 className="is-size-2 has-text-white is-size-4-mobile">
                 61 98461-4005
               </h1>
             </section>
@@ -145,7 +156,7 @@ const Footer = class extends React.Component {
                 style={{ height: "2rem" }}
                 alt="worldIcon"
               />
-              <h2 className="title has-text-white" style={{ fontSize: "2rem" }}>
+              <h2 className="is-size-3 has-text-white is-size-5-mobile">
                 vitanaturaldf@gmail.com
               </h2>
             </section>
@@ -153,13 +164,16 @@ const Footer = class extends React.Component {
               className="is-flex is-hcentered"
               style={{ flexDirection: "column", marginTop: "3rem" }}
             >
-              <h2 className="title is-4 mb-1" style={{ color: "white" }}>
+              <h2
+                className="title is-4 mb-1 is-size-5-mobile"
+                style={{ color: "white" }}
+              >
                 <b>ENDEREÇO:</b>
               </h2>
-              <p style={{ fontSize: "1.4rem" }}>
+              <p className="is-size-5-mobile" style={{ fontSize: "1.4rem" }}>
                 SEPS EQ.705/905 Edifício Mont Blanc
               </p>
-              <p style={{ fontSize: "1.4rem" }}>
+              <p className="is-size-5-mobile" style={{ fontSize: "1.4rem" }}>
                 Bloco C - Sala 204. CEP: 70390-055 - Brasília DF.
               </p>
             </section>
@@ -168,23 +182,27 @@ const Footer = class extends React.Component {
               className="is-flex is-hcentered"
               style={{ flexDirection: "column", marginTop: "3rem" }}
             >
-              <h2 className="title is-4 mb-1" style={{ color: "white" }}>
+              <h2
+                className="title is-4 mb-1 is-size-5-mobile"
+                style={{ color: "white" }}
+              >
                 <b>HORÁRIOS DE ATENDIMENTO:</b>
               </h2>
-              <p style={{ fontSize: "1.4rem" }}>Segunda à sexta:</p>
-              <p style={{ fontSize: "1.4rem" }}>8h às 17h (exceto feriados)</p>
+              <p className="is-size-5-mobile" style={{ fontSize: "1.4rem" }}>
+                Segunda à sexta:
+              </p>
+              <p className="is-size-5-mobile" style={{ fontSize: "1.4rem" }}>
+                8h às 17h (exceto feriados)
+              </p>
             </section>
           </div>
         </div>
         <p
           style={{ fontSize: "1.4rem", textAlign: "center", marginTop: "4rem" }}
-          className="is-size-4-tablet is-size-6-mobile"
+          className="is-size-5-tablet is-size-7-mobile"
         >
           (C) 2020 - Todos os direitos reservados - Clínica Vita Natural
         </p>
-        <div className="content has-text-centered cli-color-bg has-text-white-ter">
-          <div className="container cli-color-bg has-text-white-ter"></div>{" "}
-        </div>{" "}
       </footer>
     );
   }

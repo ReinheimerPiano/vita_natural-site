@@ -24,7 +24,7 @@ const AnyReactComponent = ({ text }) => <div className="column h-100 is-flex is-
         </div></section></div>
 
 const GoogleMap = () => (
-    <div style={{ height: '70vh', width: '100%' }}>
+    <div style={{ height: '60vh', width: '100%' }}>
         <GoogleMapReact
             bootstrapURLKeys={{ key: 'AIzaSyBkFlKP3IHFQUAGHyVm8IEhZK1U6167oaQ' }}
             defaultCenter={defaultProps.center}

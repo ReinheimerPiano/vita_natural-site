@@ -30,7 +30,7 @@ const HeroSlider = class extends React.Component {
               src={heroSlide1}
               style={{ width: "100vw" }}
             />
-            <div className="hero-body" style={{ height: "55vh" }}></div>
+            <div className="hero-body" style={{ height: "40vh" }}></div>
           </div>
           <div className="hero is-dark is-large has-background">
             <img
@@ -38,7 +38,7 @@ const HeroSlider = class extends React.Component {
               src={heroSlide2}
               style={{ width: "100vw" }}
             />
-            <div className="hero-body" style={{ height: "55vh" }}></div>
+            <div className="hero-body" style={{ height: "40vh" }}></div>
           </div>
         </Slider>
 

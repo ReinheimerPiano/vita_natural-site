@@ -15,7 +15,7 @@ class BlogRoll extends React.Component {
           <hr style={{width: "95vw",height: "2px",position: "absolute",background: "#808080",borderRadius: "50px",zIndex: "1"}}/>
         </section>
         <section className="is-flex is-vcentered is-hcentered has-background-white p-6">
-          <div className="columns is-multiline px-6" style={{width: "100vw"}}>
+          <div className="columns is-multiline px-3" style={{width: "100vw"}}>
             {posts &&
               posts.map(({ node: post }) => (
                 <div className="is-parent has-background-light column is-3 p-0" key={post.id} style={{borderRadius: "50px"}}>
